@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoursesConnectees</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_panier">PanierActivity</string>
+    <string name="title_activity_courses">CoursesActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+</resources>
